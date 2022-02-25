@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true list of the names of the good men of the county of Middlesex, summoned to be of the grand-jury in the quarter sessions, begun at Westminster the sixth day of October, 1681</title>
+            <title>Lists. 1681.</title>
+            <author>Middlesex (England). Grand Jury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63545</idno>
+            <idno type="STC">Wing T2733</idno>
+            <idno type="STC">ESTC R213278</idno>
+            <idno type="EEBO-CITATION">99825717</idno>
+            <idno type="PROQUEST">99825717</idno>
+            <idno type="VID">30104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1940:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true list of the names of the good men of the county of Middlesex, summoned to be of the grand-jury in the quarter sessions, begun at Westminster the sixth day of October, 1681</title>
+                  <title>Lists. 1681.</title>
+                  <author>Middlesex (England). Grand Jury.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Harbottle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy filmed has considerable print show-through.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Quarter Sessions of the Peace (Middlesex) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:30104:1"/>
+            <head>A True LIST of the Names of the Good Men of the County of <hi>Middleſex,</hi> ſummoned to be of the Grand-Jury in the Quarter Seſſions, begun at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> the ſixth day of <hi>October, 1681.</hi>
+            </head>
+            <p>THE Jury was called over at <hi>Weſtminſter,</hi> where Forty of them appeared, and were from thence Adjourned to <hi>Hicks</hi>'s <hi>Hall,</hi> before they were Sworn upon pretence of frivolous and un<g ref="char:EOLhyphen"/>true Objections (not ſufficient in Law) to their incapa<g ref="char:EOLhyphen"/>city of ſerving upon ſuch Juries; where they have been ſince ſeveral times Adjourned, without being Sworn, upon the ſame pretences, and upon many untrue Suggeſtions of their mean Condition, as men of Obſcurity, and ſuch as have been pick'd up on the High-way, and are re<g ref="char:EOLhyphen"/>turn'd to ſerve a turn, as the Chairman Sir <hi>George Jefferyes</hi> hath been pleaſed to declare.</p>
+            <list>
+               <head>Their Names are as follow, and their Characters upon the ſevereſt Scrutiny will be found true, and ſuch that have none will appear honeſt Men.</head>
+               <item>1. Sir <hi>Peter Colleton,</hi> of the Pariſh of St. <hi>Martin</hi> in the Fields, Baronet.</item>
+               <item>2. Sir <hi>Michael Heneage,</hi> of the Pariſh of St. <hi>Giles</hi> in the Fields, Knight.
+<p>Theſe two Gentlemen, their Eſtates and Integrity are ſo well known, that any body may juſtly wonder at Mr. <hi>Chairman</hi>'s expreſſions.</p>
+               </item>
+               <item>3. <hi>Francis Charleton</hi> of the ſame, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr> A Gentleman of 2000 <hi>l. per. ann.</hi> whoſe Loyalty and Honeſty no Man can juſtly Tax.</item>
+               <item>4. <hi>Edward Clark</hi> of <hi>Weſtminſter, <abbr>Eſq</abbr>
+                  </hi> hath at leaſt 1500 <hi>l. per. ann.</hi> and of as good Reputation as any Man.</item>
+               <item>5. <hi>William Farnborough,</hi> of St. <hi>Martin</hi> in the Fields, Glaſs-ſeller, over againſt <hi>Church-Alley</hi> in the <hi>Strand,</hi> has been a Trader about five years there, and is well known in
+<pb n="2" facs="tcp:30104:2"/>the Neighbourhood, to be a Perſon of no mean Cha<g ref="char:EOLhyphen"/>racter.</item>
+               <item>6. <hi>Robert Breedon</hi> of the ſame, Brewer, Brother to Alder<g ref="char:EOLhyphen"/>man <hi>Breedon,</hi> a Man of a conſiderable Eſtate, as is well known all over the Liberty of <hi>Weſtminſter.</hi>
+               </item>
+               <item>7. <hi>William Horſley</hi> of the ſame, Cheeſemonger, Citizen and Draper of <hi>London,</hi> who hath been a Trader there four<g ref="char:EOLhyphen"/>teen years, and is well known amongſt all the Neigh<g ref="char:EOLhyphen"/>bourhood, and hath ſerved in ſeveral Publick Offices in the Pariſh, and is of unſpotted Credit.</item>
+               <item>8. <hi>Clement Halſey</hi> of St. <hi>John Street,</hi> Brewer, hath lived 12 years by <hi>Hicks</hi>'s <hi>Hall,</hi> and hath ſerved three, times upon the Grand Jury, and ſeveral Publick Offices of the Pariſh of St. <hi>Sepulchers,</hi> and is unſpotted in his Credit.</item>
+               <item>9. <hi>William Rapier</hi> of <hi>Weſtminſter,</hi> of good Credit and Suf<g ref="char:EOLhyphen"/>ficency, and well known.</item>
+               <item>10. <hi>Tracey Panceford</hi> of the Pariſh of St. <hi>Martin</hi> in the Fields, is a Citizen and Leather-ſeller of <hi>London,</hi> late dwelt in St. <hi>Clements</hi> Pariſh, hath been a Trader 7 years, of very good Reputation.</item>
+               <item>11. <hi>Matthias Hatton</hi> of <hi>White-Chappel,</hi> Citizen and Draper of <hi>London,</hi> hath been a Trader at <hi>White-Chappel</hi> 7 years, in no wiſe tainted in his Reputation or Credit.</item>
+               <item>12. <hi>Philip Norway</hi> of the ſame, Citizen and Glaſier of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> hath been a Trader there 20 years, born moſt Offi<g ref="char:EOLhyphen"/>ces in the Pariſh, and ſerved in his Company, and may be ſummoned upon his Countries Service out of his Shop, without ſeeking him upon the High-way.</item>
+               <item>13. <hi>Daniel Tracey</hi> of the ſame, well known upon the Ex<g ref="char:EOLhyphen"/>change, without exception.</item>
+               <item>14. <hi>Thomas Floyder</hi> of the ſame, Citizen and Bricklayer, has been a Trader three years, of known ſubſtance in the Neighbourhood, and hath born ſeveral Publick Offices.</item>
+               <item>15. <hi>William Floyder</hi> of the ſame, Citizen and Plaiſterer of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> late of <hi>Aldgate</hi> Pariſh, where he hath ſerved Church<g ref="char:EOLhyphen"/>warden, hath been Maſter of his Company, and a Tra<g ref="char:EOLhyphen"/>der 30 years, and well known in the Neighbourhood to be of ſound Reputation.</item>
+               <item>16. <hi>Thomas Harris</hi> of St. <hi>Giles</hi> in the Fields, is now Church<g ref="char:EOLhyphen"/>warden there.</item>
+               <pb n="3" facs="tcp:30104:2" rendition="simple:additions"/>
+               <item> 17. <hi>Nicholas Moor</hi> of the ſame, of good Credit.</item>
+               <item>18. <hi>Thomas Bickerſtaff</hi> of the ſame, Citizen and Skinner of <hi>London,</hi> hath been a Trader 12 years, hath fined for all Pariſh Offices, and is well known in his Neighbourhood.</item>
+               <item>19. <hi>Joſeph Burgin</hi> of the ſame.</item>
+               <item>20. <hi>William Purdham</hi> of the ſame.</item>
+               <item>21. <hi>James Frank</hi> of the New Exchange.</item>
+               <item>22. <hi>James Dobſon</hi> of the ſame.</item>
+               <item>23. <hi>Richard Horſley</hi> of the ſame.
+<p>Theſe three laſt are noted Men in the Pariſh of St. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> where they dwell, have conſiderable Eſtates, and of unſpotted Reputation.</p>
+               </item>
+               <item>24. <hi>John Stych</hi> of <hi>Covent-Garden,</hi> an honeſt and Subſtanti<g ref="char:EOLhyphen"/>al man.</item>
+               <item>25. <hi>Robert Wyat</hi> of <hi>Stepney.</hi>
+               </item>
+               <item>26. <hi>William Bromfield</hi> of the ſame.</item>
+               <item>27. <hi>Stephen Cleave</hi> of <hi>Cripplegate,</hi> is both honeſt and able.</item>
+               <item>28. <hi>Richard Collins</hi> of <hi>Clerkenwell,</hi> is a conſiderable Brewer and of good Reputation.</item>
+               <item>29. <hi>Richard Sheppard</hi> of St. <hi>Giles</hi> in the Fields; he lives near little <hi>Turn-Style,</hi> is wellknown, and of good Reputation.</item>
+               <item>30. <hi>John Ward</hi> of <hi>White-Chappel,</hi> Citizen and Goldſmith of <hi>London,</hi> hath been a Trader there 5 years, hath ſerved his Company and Pariſh in ſeveral Offices of undoubted Credit.</item>
+               <item>31. <hi>Daniel Bynyon</hi> of the ſame, Deal Merchant at <hi>Wapping,</hi> hath been a Trader there or thereabouts, ever ſince the Fire, is publickly known in the Neighbourhood, and is of great Credit.</item>
+               <item>32. <hi>Richard Angel</hi> of <hi>Stepney,</hi> a Maſter of a Ship, and well known upon the <hi>Exchange.</hi>
+               </item>
+               <item>33. <hi>Bartholomew Hart</hi> of <hi>Aldgate.</hi>
+               </item>
+               <item>34. <hi>Henry Criſpe</hi> of <hi>White-Chappel.</hi>
+               </item>
+               <item>35. <hi>John Lynne</hi> of <hi>Weſtminſter.</hi>
+               </item>
+               <item>36. <hi>John Archer</hi> of the ſame.</item>
+               <item>37. <hi>Joſeph Witteridge</hi> of the Pariſh of S. <hi>Giles</hi> in the Fields.</item>
+               <item>38. <hi>John Chappel</hi> of St. <hi>Andrews Holbourn,</hi> Vintner.</item>
+               <item>39. <hi>Thomas Grimes</hi> of <hi>Stepney.</hi>
+               </item>
+               <item>40. <hi>William Keech</hi> of the ſame.</item>
+               <pb n="4" facs="tcp:30104:3"/>
+               <item> 41. <hi>Willi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Madde<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> of <hi>White-Chappel.</hi>
+               </item>
+               <item>42. <hi>Thomas Reeves</hi> of <hi>Stepney.</hi>
+               </item>
+               <item>43. <hi>Joſeph Patrickſon</hi> of the Pariſh of St. <hi>Sepulchres.</hi>
+               </item>
+               <item>44. <hi>Francis Blewet</hi> of <hi>Clerkennel.</hi>
+                  <p>Theſe 12 laſt are honeſt and ſubſtantial men, and well known in their ſeveral Neighbourhoods.</p>
+               </item>
+               <item>45. <hi>Charles Peters</hi> of St. <hi>Martin</hi> in the Fields, he is a Chy<g ref="char:EOLhyphen"/>rurgion of eminent Practice, hath been a Houſe-keep<g ref="char:EOLhyphen"/>er there this 9 years of known Subſtance, and High in Reputation.</item>
+               <item>46. <hi>Thomas Maſcal</hi> the Younger of <hi>Weſtminſter.</hi>
+               </item>
+               <item>47. <hi>John Davis</hi> of the Pariſh of <hi>St. Martin</hi> in the Fields.</item>
+               <item>48. <hi>John Freeman</hi> of St. <hi>Andrews Holbourn.</hi> And</item>
+               <item>42. <hi>Charles Cawley</hi> of <hi>Weſtminſter.</hi>
+                  <p>The four laſt mentioned are honeſt, able, and well known.</p>
+               </item>
+            </list>
+            <p>To Vindicate in the Face of all mankind this Grand-Jury, the late Sheriffs (who return'd them) and the Under-Sheriff from the foul A<g ref="char:EOLhyphen"/>ſperſions caſt upon them, I have thought fit to give the World this Account in Print, which upon Inquity will be found true, and that all indifferent Men may judge, whether 'tis more probable that theſe men who are of very good Quality, and untainted in their Reputati<g ref="char:EOLhyphen"/>ons, ſhould be now returned to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or whether thoſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againſt them, and would without any juſt cauſe put others in ſome of their plates, have any other deſign than what they object to them.</p>
+            <p>Now as to the Reaſons that are inſiſted on for this alteration, they are ſuch as the Law takes no notice of. The Precept Commands the Sheriffs <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> honeſt and lawful men, which he having done, is all can be reaſonably expected from him. Notwithſtanding the fierceneſs of the Bench, that upon Colour of an Act of Parliament made in 3 <hi>H.</hi> 8. to prevent the Indictment of the Innocent and the Acquittal of the Guil<g ref="char:EOLhyphen"/>ty, would put men of nothing like ſo good Reputation upon the Jury, which if the Sheriff refuſed out of a ſenſe of the deſign in hand, and hath thereby hazarded the loſs of 20 <hi>l.</hi> beſides attracting the malice of ſeve<g ref="char:EOLhyphen"/>ral, I doubt not but that he will the rather be held excuſable, for that he is likely to loſe by the bargain, which he hath made for no other ends than only the ſervice of the publick and preſervation of the In<g ref="char:EOLhyphen"/>nocent.</p>
+            <p>I would not willingly be inſtrumental to put any indecency upon the Bench, but this, I (being one of the Jury) may without vanity ſay, that a dozen of us have as good if not better Eſtates than any dozen of them that were on the Bench on <hi>Wedneſday</hi> the 12th of <hi>October.</hi> In<g ref="char:EOLhyphen"/>ſtant, notwithſtanding it hath been ſaid we were of obſcure and mean Condition, and pick'd up on the High-way.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Harbottle,</hi> 1681.</p>
+            <pb facs="tcp:30104:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
